@@ -1,5 +1,1 @@
-# [Daisy_Wiki](https://github.com/electro-smith/DaisyWiki/wiki)
-
-Welcome to the Daisy Wiki!
-
-[Get started, and more here!](https://github.com/electro-smith/DaisyWiki/wiki)
+## This Wiki has been archived and the relevant information is now located at [daisy.audio](https://daisy.audio/)
